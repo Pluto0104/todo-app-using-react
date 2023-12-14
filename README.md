@@ -19,10 +19,6 @@
 - Offline capable (Progressive Web App).
 - No analytics/tracking cookies.
 
-## Website
-
-The project can accessed at: [just-another-todo-app.vercel.app](https://just-another-todo-app.vercel.app/) 👈
-
 ## Build it yourself
 
 If you want to run from source, make sure that you have NodeJS installed (Latest / LTE supported).
